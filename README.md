@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [PLEX](https://github.com/Fedora-Group/PLEX-Front-End)
+- 🔭 I’m currently working with [infotointell](https://github.com/nlp-infotointell)
 
 - 🌱 I Want to learn **Vue.js, Next.js, Graph QL**
 
