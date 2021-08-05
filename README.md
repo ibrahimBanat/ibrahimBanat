@@ -27,3 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimbanat&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ibrahimbanat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimbanat&show_icons=true&theme=tokyonight&locale=en" alt="ibrahimbanat" /></p>
+
+
+<a href="https://app.daily.dev/ibrahibanat"><img src="https://api.daily.dev/devcards/dbd9c1675aec4b28ac35a39e70f01b3a.png?r=mkr" width="400" alt="Ibrahim Banat's Dev Card"/></a>
