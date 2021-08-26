@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working with [infotointell](https://github.com/nlp-infotointell)
+- 🔭 I’m currently working with [altibbi](https://altibbi.com/)
 
 - 🌱 I Want to learn **Vue.js, Next.js, Graph QL**
 
